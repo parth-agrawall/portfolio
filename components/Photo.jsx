@@ -31,6 +31,9 @@ const Photo = () => {
                 <Image src = "/assets/portfolio-pp.jpeg" priority quality={100}
                 fill alt="" className = "object-contain"/>
             </motion.div>
+            
+            {/* circle */}
+
         </motion.div>
     </div>
   )
